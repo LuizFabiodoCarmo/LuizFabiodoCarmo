@@ -1,4 +1,6 @@
-<div align="center",text_bold>Olá, eu sou o Luiz Fabio.<br>Seja bem vindo(a) ao meu Github!!</div>
+<div align="center" text_bold>Olá, eu sou o Luiz Fabio.<br>Seja bem vindo(a) ao meu Github!!
+media="(prefers-color-scheme: dark)"
+</div>
 
 
 
