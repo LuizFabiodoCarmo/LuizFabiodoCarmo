@@ -1,4 +1,4 @@
-<div align="center" size:50px>Olá, eu sou o Luiz Fabio.<br>Seja bem vindo(a) ao meu Github!!</div>
+<div align="center">Olá, eu sou o Luiz Fabio.<br>Seja bem vindo(a) ao meu Github!!</div>
 
 
 
@@ -25,6 +25,18 @@
     <img src="https://skillicons.dev/icons?i=javascript,css,html,bootstrap,figma,mysql,typescript,java,python,angular,aws" />
   </a>
 </p>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
