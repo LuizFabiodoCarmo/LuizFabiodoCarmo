@@ -8,9 +8,15 @@ Seja bem vindo(a) ao meu Github!!
 
 
 
+<p>- 🌱 I’m currently learning: AWS clound, e muito sobre o universo Fullstack Jr.
+- 😄 Pronouns: Ele/dele</p>
 
-- 🌱 I’m currently learning: AWS clound, e muito sobre o universo Fullstack Jr.
-- 😄 Pronouns: Ele/dele
+
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,6 +27,9 @@ Seja bem vindo(a) ao meu Github!!
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
   <img align="center" alt="Luiz-MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luiz-Angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg">
+  <img align="center" alt="Luiz-Boot" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
+  <img align="center" alt="Luiz-Figma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg">
   <img align="center" alt="Luiz-aws" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
   
 
