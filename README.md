@@ -1,17 +1,17 @@
-### Olá, eu sou o Luiz Fabio. 
-
-Seja bem vindo(a) ao meu Github!!
+<div align="center"> ### Olá, eu sou o Luiz Fabio.<br>Seja bem vindo(a) ao meu Github!!</div>
 
 
-<div><img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041"; src="https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2">
+
+
+<div align="center"><img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041"; src="https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2">
 </div> 
 
 <br>
 
-<p>👨🏽‍💻 I’m currently learning: AWS clound, e muito sobre o universo Fullstack Jr.
+<p align="center">👨🏽‍💻 I’m currently learning: AWS clound, e muito sobre o universo Fullstack Jr.
 <br> 🧔🏽‍♂️ Pronouns: Ele/dele</p>
 
-<div>
+<div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko">
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko) -->
 </div>
