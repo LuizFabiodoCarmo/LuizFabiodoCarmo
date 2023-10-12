@@ -1,4 +1,4 @@
-<div align="center" font-size:50px>Olá, eu sou o Luiz Fabio.<br>Seja bem vindo(a) ao meu Github!!</div>
+<div align="center" size:50px>Olá, eu sou o Luiz Fabio.<br>Seja bem vindo(a) ao meu Github!!</div>
 
 
 
