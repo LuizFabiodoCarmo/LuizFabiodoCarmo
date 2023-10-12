@@ -12,8 +12,8 @@ Seja bem vindo(a) ao meu Github!!
 <br> 🧔🏽‍♂️ Pronouns: Ele/dele</p>
 
 <div>
-  <img height="180em" src"https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko">
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko) -->
 </div>
 
 
