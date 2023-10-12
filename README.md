@@ -8,8 +8,9 @@ Seja bem vindo(a) ao meu Github!!
 
 
 
-- 🌱 I’m currently learning ..
-- 😄 Pronouns:ele/dele
+
+- 🌱 I’m currently learning: AWS clound, e muito sobre o universo Fullstack Jr.
+- 😄 Pronouns: Ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
