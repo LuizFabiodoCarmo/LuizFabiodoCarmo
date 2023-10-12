@@ -3,7 +3,7 @@
 
 
 
-<div align="center"><img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041"; src="https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2">
+<div align="center" border_color="#53A041"><img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041"; src="https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2">
 </div> 
 
 <br>
