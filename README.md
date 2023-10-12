@@ -1,4 +1,7 @@
-### Olá, eu sou o Luiz Fabio, seja bem vindo(a) ao meu Github!! 
+### Olá, eu sou o Luiz Fabio. 
+
+Seja bem vindo(a) ao meu Github!! ![BabyYodaWaveGIF (2)](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2)
+ 
 
 - 🌱 I’m currently learning ..
 - 😄 Pronouns:ele/dele
