@@ -14,7 +14,7 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=luizfabiodocarmo&show_icons=true&theme=merko">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=merko">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfabiodocarmo&theme=merko">
 </div>
 
 <!--<br>
