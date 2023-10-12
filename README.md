@@ -11,7 +11,10 @@ Seja bem vindo(a) ao meu Github!!
 <p>👨🏽‍💻 I’m currently learning: AWS clound, e muito sobre o universo Fullstack Jr.
 <br> 🧔🏽‍♂️ Pronouns: Ele/dele</p>
 
-<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)</div>
+<div>
+  <img height="180em" src"https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+</div>
 
 
 
