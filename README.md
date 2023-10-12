@@ -1,4 +1,4 @@
-<div align="center">Olá, eu sou o Luiz Fabio.<br>Seja bem vindo(a) ao meu Github!!</div>
+<div align="center",text_bold>Olá, eu sou o Luiz Fabio.<br>Seja bem vindo(a) ao meu Github!!</div>
 
 
 
@@ -26,8 +26,9 @@
   </a>
 </p>
 
+<!-- outra maneira de colocar o quadro de atividades
 <picture>
-  <source
+   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
@@ -36,7 +37,9 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+</picture>-->
+
+
 
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
