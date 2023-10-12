@@ -3,7 +3,7 @@
 Seja bem vindo(a) ao meu Github!!
 
 
-<div><img align="center" alt="Baby Oda" height="150" style="border-radius:50 color=":#53A041"; src="https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2">
+<div><img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder-color=":#53A041"; src="https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2">
 </div> 
 
 
