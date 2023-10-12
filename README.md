@@ -14,10 +14,9 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko">
-<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko) -->
 </div>
 
-
+<br>
 
 
 
