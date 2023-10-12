@@ -14,11 +14,14 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=luizfabiodocarmo&show_icons=true&theme=merko">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=merko">
 </div>
 
+<!--<br>
+<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+ </div> -->
+
 <br>
-
-
 
 <p align="center">
   <a href="https://skillicons.dev">
