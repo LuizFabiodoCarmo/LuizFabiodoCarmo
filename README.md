@@ -19,7 +19,7 @@ Seja bem vindo(a) ao meu Github!!
 <!--   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luiz-aws" height="30" width="40" src="http://www.w3.org/2000/svg">
-http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#242938" rx="60"/>
+  <img align="center" alt="Luiz-aws" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
+
 </div>
 
