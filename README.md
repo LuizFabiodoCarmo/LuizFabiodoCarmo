@@ -14,7 +14,7 @@ Seja bem vindo(a) ao meu Github!!
 
 - <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=javascript,css3,html15,bootstrap,figma,MySQL,typescript,Java,python,Angular,AWS" />
   </a>
 </p>
 
