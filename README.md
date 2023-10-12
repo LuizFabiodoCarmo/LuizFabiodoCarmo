@@ -3,9 +3,10 @@
 Seja bem vindo(a) ao meu Github!!
 
 
+<div>![BabyYodaWaveGIF (2)](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2)
+</div> 
 
-![BabyYodaWaveGIF (2)](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2)
- 
+
 
 - 🌱 I’m currently learning ..
 - 😄 Pronouns:ele/dele
@@ -18,5 +19,5 @@ Seja bem vindo(a) ao meu Github!!
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50;" src="https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50;" src="https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2">
 </div>
