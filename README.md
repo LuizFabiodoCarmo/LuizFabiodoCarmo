@@ -4,8 +4,8 @@
 
 
 
-<div align="center" border_color="#53A041"><img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041"; src="https://discordapp.com/channels/1002256415827701760/1002256416314245210/1162462749033513021">
-  
+<div align="center" border_color="#53A041"><img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041";
+ <img src="https://discordapp.com/channels/1002256415827701760/1002256416314245210/1162462749033513021"> 
 </div> 
 
 <br>
