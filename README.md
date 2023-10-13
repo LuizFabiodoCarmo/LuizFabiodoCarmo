@@ -1,8 +1,7 @@
-<div align="center">Olá, eu sou o Luiz Fabio.<br>Seja bem vindo(a) ao meu Github!!
+<h1 align="center"> Olá, eu sou o Luiz Fabio. </h1>
+
+<div align="center"><br>Seja bem vindo(a) ao meu Github!!
 </div>
-
-
-
 
 <div align="center" border_color="#53A041">
 <!--  <img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041"; "> -->
