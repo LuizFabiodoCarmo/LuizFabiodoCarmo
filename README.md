@@ -4,7 +4,8 @@
 
 
 
-<div align="center" border_color="#53A041"><img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041"; src="https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/f3258fcb-4304-4f49-b35d-b63b795a2ab2">
+<div align="center" border_color="#53A041"><img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041"; src="https://imgur.com/yENlU59">
+  
 </div> 
 
 <br>
@@ -33,8 +34,8 @@
 
  ##
 <div  align="center"> 
- <a href="luizfabio_"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luizbinho26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="Luiz Fabio de Carvalho-LinkedIn"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luiz-fabio-c-a-carvalho/"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
