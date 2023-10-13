@@ -5,7 +5,10 @@
 
 
 <div align="center" border_color="#53A041"><img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041";
- <img src="https://discordapp.com/channels/1002256415827701760/1002256416314245210/1162462749033513021"> 
+ <img src=" https://cdn.discordapp.com/attachments/1002256416314245210/1162462748513423420/gif_github_Feito_com_o_Clipchamp.mp4?ex=653c06cc&is=652991cc&hm=62d2288b03b7ff8b1fe4c0da1fb79b89de252331b27c4baff11519f5ab2d07dd&"> 
+ 
+ https://cdn.discordapp.com/attachments/1002256416314245210/1162462748513423420/gif_github_Feito_com_o_Clipchamp.mp4?ex=653c06cc&is=652991cc&hm=62d2288b03b7ff8b1fe4c0da1fb79b89de252331b27c4baff11519f5ab2d07dd&
+ 
 </div> 
 
 <br>
