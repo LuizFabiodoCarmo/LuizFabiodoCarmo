@@ -4,11 +4,12 @@
 
 
 
-<div align="center" border_color="#53A041"><img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041";
+<div align="center" border_color="#53A041">
+<!--  <img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041"; "> -->
 
  
 ![gif github ‐ Feito com o Clipchamp](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/37357274-dbac-4514-8027-4d06b78245ef)
- "> 
+ 
 </div> 
 
 <br>
