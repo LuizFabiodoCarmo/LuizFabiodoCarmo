@@ -1,5 +1,6 @@
-<h1 align="center"> Olá, eu sou o Luiz Fabio. </h1>
-<h3 align="center">Seja bem vindo(a) ao meu Github!!</h3>
+<di align="center"> ![i'm github](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/3dfd25c0-28d1-48b9-80c3-88de30442ac1)</div>
+<h1 > Hello, I'm Luiz Fabio. </h1>
+<h3 align="center">Welcome to my Github!!</h3>
 
 
 <div align="center" border_color="#53A041">
@@ -12,8 +13,7 @@
 
 <br>
 
-<p align="center">👨🏽‍💻 I’m currently learning: AWS clound, e muito sobre o universo Fullstack Jr.
-<br> 🧔🏽‍♂️ Pronouns: Ele/dele</p>
+<p align="center">👨🏽‍💻 I’m currently learning: AWS clound, and lot of about Fullstack Jr universe.
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=luizfabiodocarmo&show_icons=true&theme=merko">
