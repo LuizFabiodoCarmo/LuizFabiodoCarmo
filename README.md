@@ -1,4 +1,4 @@
-<di align="center"> ![i'm github](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/3dfd25c0-28d1-48b9-80c3-88de30442ac1)</div>
+<di align="center" width=55% > ![i'm github](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/3dfd25c0-28d1-48b9-80c3-88de30442ac1)</div>
 <h1 > Hello, I'm Luiz Fabio. </h1>
 <h3 align="center">Welcome to my Github!!</h3>
 
