@@ -1,7 +1,7 @@
 <di align="center">![i'm github](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/08b1d246-72e8-4d6d-899e-4aee1312bbe4)</div>
 <!--<h1 > Hello, I'm Luiz Fabio. </h1>-->
 
-<h3 align="center">Welcome to my Github!!</h3>
+<h3 align="center" color="green">Welcome to my Github!!</h3>
 
 
 <div align="center" border_color="#53A041">
@@ -14,7 +14,8 @@
 
 <br>
 
-<p align="center">👨🏽‍💻 I’m currently learning: AWS clound, and lot of about Fullstack Jr universe.
+<h3 align="center">👨🏽‍💻 I’m currently learning: AWS clound, and lot of about Fullstack Jr universe.</h3>
+
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=luizfabiodocarmo&show_icons=true&theme=merko">
