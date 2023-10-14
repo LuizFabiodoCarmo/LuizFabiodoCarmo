@@ -1,5 +1,6 @@
-<di align="center" width=55% > ![i'm github](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/3dfd25c0-28d1-48b9-80c3-88de30442ac1)</div>
-<h1 > Hello, I'm Luiz Fabio. </h1>
+<di align="center">![i'm github](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/08b1d246-72e8-4d6d-899e-4aee1312bbe4)</div>
+<!--<h1 > Hello, I'm Luiz Fabio. </h1>-->
+
 <h3 align="center">Welcome to my Github!!</h3>
 
 
