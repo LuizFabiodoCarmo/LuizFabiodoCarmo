@@ -15,11 +15,11 @@
 ![gif github ‐ Feito com o Clipchamp](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/37357274-dbac-4514-8027-4d06b78245ef)
  
 </div> 
-<h3 align="center" color="green">(Casd tenha interesse, acesse meu Portifólio.)</h3>
-<a href=>
-    <img src=""https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=todoist&logoColor=white"" />
-  </a>
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
+<h3 align="center" color="green">(Caso tenha interesse, acesse meu Portifólio e saiba mais.)</h3>
+
+<div  align="center"> 
+ <a href=""><img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=todoist&logoColor=white"></a> 
+</div>
 <br>
 
 <h3 align="center">👨🏽‍💻 I’m currently learning: AWS clound, and lot of about Fullstack Jr universe.</h3>
