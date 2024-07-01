@@ -1,4 +1,4 @@
-<di align="center">![i'm github](https://github.com/LuizFabiodoCarmo/Lu![readmeGith](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/a3886b90-5795-4779-95ed-bddd7e65a18b)
+<di align="center">Lu![readmeGith](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/a3886b90-5795-4779-95ed-bddd7e65a18b)
 izFabiodoCarmo/assets/104438927/08b1d246-72e8-4d6d-899e-4aee1312bbe4)</div>
 ![Uploading readmeGith.png…]()
 
