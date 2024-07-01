@@ -18,9 +18,9 @@
 <h3 align="center" color="green">(Caso tenha interesse, acesse meu Portifólio e saiba mais.)</h3>
 <h3 align="center" color="green">(If you are interested, access my Portfolio and find out more.)</h3>
 
-<div  align="center"> 🔹🔷
+<div  align="center"> 🔹🔷🔷
  <a href=""><img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=todoist&logoColor=white"></a> 
-🔷🔹</div>
+🔷🔷🔹</div>
 <br>
 
 <h3 align="center">👨🏽‍💻 Atualmente estou aprendendo: AWS cloud e muito sobre o universo Fullstack Jr.</h3>
