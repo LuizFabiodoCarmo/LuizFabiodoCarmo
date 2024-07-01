@@ -4,8 +4,8 @@
 
 <!--<h1 > Hello, I'm Luiz Fabio. </h1>-->
 
-<h3 align="center" color="green">Bem vindo(a) ao meu Github!!</h3>
-<h2 align="center" color="green">(Welcome to my Github!!)</h2>
+<h2 align="center" color="green">Bem vindo(a) ao meu Github!!</h2>
+<h3 align="center" color="green">(Welcome to my Github!!)</h3>
 
 
 <div align="center" border_color="#53A041">
