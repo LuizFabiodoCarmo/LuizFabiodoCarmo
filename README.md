@@ -15,7 +15,7 @@
 ![gif github ‐ Feito com o Clipchamp](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/37357274-dbac-4514-8027-4d06b78245ef)
  
 </div> 
-<h3 align="center" color="green">(Caso tenha interesse, acesse meu Portifólio e saiba mais.)</h3>
+<h3 align="center" color="green">Caso tenha interesse, acesse meu Portifólio e saiba mais.</h3>
 <h3 align="center" color="green">(If you are interested, access my Portfolio and find out more.)</h3>
 
 <div  align="center"> 🔹🔷🔷
@@ -24,7 +24,7 @@
 <br>
 
 <h3 align="center">👨🏽‍💻 Atualmente estou aprendendo: AWS cloud e muito sobre o universo Fullstack Jr.</h3>
-<h3 align="center">👨🏽‍💻 I’m currently learning: AWS clound, and lot of about Fullstack Jr universe.</h3>
+<h3 align="center">(👨🏽‍💻 I’m currently learning: AWS clound, and lot of about Fullstack Jr universe.)</h3>
 
 
 <div align="center">
