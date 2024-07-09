@@ -38,17 +38,18 @@
 
 <br>
 
+
+
+<h3 align="center">(<div  align="center">
+ <a href=""><img src="https://img.shields.io/badge/Certificados-blue?style=for-the-badge&logo=todoist&logoColor=white"></a> 
+</div>  que comprovam meus conhecimentos em:)</h3>
+<br>
+
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=javascript,css,html,bootstrap,figma,mysql,typescript,java,python,angular,aws,vscode,spring,eclipse" />
   </a>
 </p>
-
-<div  align="center">
- <a href=""><img src="https://img.shields.io/badge/Certificados-blue?style=for-the-badge&logo=todoist&logoColor=white"></a> 
-</div>
-<br>
-
 
  ##
  <h3 align="center" color="green">Minhas redes sociais</h3>
