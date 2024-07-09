@@ -40,9 +40,10 @@
 
 
 
-<h3 align="center">Meus <div  align="center">
+<h3 align="center">Meus(My) <div  align="center">
  <a href=""><img src="https://img.shields.io/badge/Certificados-blue?style=for-the-badge&logo=todoist&logoColor=white"></a> 
 </div>  que comprovam meus conhecimentos em:</h3>
+<h3 align="center">(which prove my knowledge in:)</h3>
 <br>
 
 <p align="center">
