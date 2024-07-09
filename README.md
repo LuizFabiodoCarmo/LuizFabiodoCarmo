@@ -18,9 +18,9 @@
 <h3 align="center" color="green">Caso tenha interesse, acesse meu Portifólio e saiba mais.</h3>
 <h3 align="center" color="green">(If you are interested, access my Portfolio and find out more.)</h3>
 
-<div  align="center"> 🔹🔷🔷
+<div  align="center">
  <a href=""><img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=todoist&logoColor=white"></a> 
-🔷🔷🔹</div>
+</div>
 <br>
 
 <h3 align="center">👨🏽‍💻 Atualmente estou aprendendo: AWS cloud e muito sobre o universo Fullstack Jr.</h3>
@@ -44,14 +44,18 @@
   </a>
 </p>
 
+<div  align="center">
+ <a href=""><img src="https://img.shields.io/badge/Certificados-blue?style=for-the-badge&logo=todoist&logoColor=white"></a> 
+</div>
+<br>
 
 
  ##
  <h3 align="center" color="green">Minhas redes sociais</h3>
  <h3 align="center" color="green">(My social media)</h3>
 <div  align="center"> 
- <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 🔷
-  <a href = "mailto:luizbinho26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>🔷
+ <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:luizbinho26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-fabio-c-a-carvalho/"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
