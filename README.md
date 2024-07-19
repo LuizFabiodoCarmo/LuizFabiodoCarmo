@@ -19,7 +19,7 @@
 <h3 align="center" color="green">(If you are interested, access my Portfolio and find out more.)</h3>
 
 <div  align="center">
- <a href=""><img src="(https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=todoist&logoColor=white)](https://luizfabiodocarmo.github.io/Portifolio-Luiz-Fabio/index.html)"></a> 
+ <a href=""><img src="[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)"></a> 
 </div>
 <br>
 
@@ -45,7 +45,7 @@
 </div>  que comprovam meus conhecimentos em:</h3>
 <h3 align="center">(which prove my knowledge in:)</h3>
 <br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
+
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=javascript,css,html,bootstrap,figma,mysql,typescript,java,python,angular,aws,vscode,spring,eclipse" />
