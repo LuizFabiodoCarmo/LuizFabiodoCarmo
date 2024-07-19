@@ -19,7 +19,7 @@
 <h3 align="center" color="green">(If you are interested, access my Portfolio and find out more.)</h3>
 
 <div  align="center">
- <a href=""><img src="(https://luizfabiodocarmo.github.io/Portifolio-Luiz-Fabio/index.html)"></a> 
+ <a href=""><img src="(https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=todoist&logoColor=white)](https://luizfabiodocarmo.github.io/Portifolio-Luiz-Fabio/index.html)"></a> 
 </div>
 <br>
 
@@ -37,11 +37,11 @@
  </div> -->
 
 <br>
-
+[![Portfolio]
 
 
 <h3 align="center">Meus <br> (My) <br> <div  align="center">
- <a href=""><img src="https://luizfabiodocarmo.github.io/Portifolio-Luiz-Fabio/certificados.html"></a> 
+ <a href=""><img src="(https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=todoist&logoColor=white)](https://luizfabiodocarmo.github.io/Portifolio-Luiz-Fabio/certificados.html)"></a> 
 </div>  que comprovam meus conhecimentos em:</h3>
 <h3 align="center">(which prove my knowledge in:)</h3>
 <br>
