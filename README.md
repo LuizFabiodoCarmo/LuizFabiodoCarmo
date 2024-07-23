@@ -53,8 +53,7 @@
 </p>
 
  ##
- <h3 align="center" color="green">Me acompanhe também pelo:</h3>
- <h3 align="center" color="green">(Also follow me on:)</h3>
+
 <div  align="center"> 
  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luizbinho26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
