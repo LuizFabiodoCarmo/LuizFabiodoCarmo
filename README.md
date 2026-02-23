@@ -27,14 +27,14 @@
 <h3 align="center">(👨🏽‍💻 I’m currently learning: AWS clound, and lot of about Fullstack Jr universe.)</h3>
 
 
-<div align="center">
+<!--<div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=luizfabiodocarmo&show_icons=true&theme=merko">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfabiodocarmo&theme=merko">
 </div>
-
-<!--<br>
+<br>
 <div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
- </div> -->
+ </div>-->
+
 
 <br>
 
